@@ -1,0 +1,23 @@
+.yellow {
+    color: rgb(174, 230, 21);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align-last: center;
+    color: rgba(23, 26, 224, 0.986);
+}
+
+p {
+    color: rgb(80, 17, 208);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.font {
+    font-family: 'Times New Roman', Times, serif;
+}
